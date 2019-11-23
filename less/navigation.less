@@ -1,1 +1,28 @@
 // Navigation code here
+.container-of-the-navigation {
+    background-color: @nav-bg;
+    padding: 15px 0 15px 0;
+
+    h1 {
+        font-size: 4rem;
+        text-align: center;
+        width: 100%
+    }
+
+    .container-of-the-links {
+        display: flex;
+        justify-content: space-around;
+        max-width: 800px;
+        margin: 15px auto 0 auto;
+        width: 40%;
+        @media (@phone) {
+            width: 100%;
+        }
+
+        a {
+            font-size: 1.6rem;
+            text-decoration: none;
+            color: @header-font-color;
+        }
+    }
+}
