@@ -50,7 +50,7 @@ Preprocessing is a way to create CSS from more convient methods such as LESS and
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
 
-I don't know where to use it yet, but a recursive mixin to visually solve the Towers of Hanoi problem might be fun.  LESS functions will probably give me a headache.
+I don't know if I know enough to use it yet, but a recursive mixin to visually solve the Towers of Hanoi problem might be fun.  LESS functions will probably give me a headache.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
