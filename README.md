@@ -42,7 +42,7 @@ Mobile first refers to initially creating the design and code for a mobile devic
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
-62.5% of the standard font size of 16px equates to 10px, making our 1 rem unit equal to 10px;  this simplifies of calculations from rem usits to px.
+62.5% of the standard font size of 16px equates to 10px, making our 1 rem unit equal to 10px;  this simplifies of calculations from rem units to px.
 
 4. How would you describe preprocessing to someone new to CSS?
 
