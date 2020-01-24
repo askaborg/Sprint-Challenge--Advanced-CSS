@@ -1,1 +1,27 @@
 // Mixins Here
+
+// 100% width
+.widen() {
+    width: 100%;
+}
+
+// don't display
+.undisplay() {
+    display: none;
+}
+
+// sign-up button
+.sign-up(@border-radius: 5px, @background-color: @btn-bg-color, @color: @porcelain, @font-size: 1.6rem, 
+    @font-weight: bold, @max-width: 100px, @padding-bottom: 10px, @padding-top: 10px,
+    @text-align: center, @width: 100%) {
+        border-radius: @border-radius;
+        background-color: @background-color;
+        color: @color;
+        font-size: @font-size;
+        font-weight: @font-weight;
+        max-width: @max-width;
+        padding-bottom: @padding-bottom;
+        padding-top: @padding-top;
+        text-align: @text-align;
+        width: @width;
+}
